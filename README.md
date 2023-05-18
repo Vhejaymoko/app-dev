@@ -1,4 +1,5 @@
 # My Favorite Series: Game of Thrones
+![Strangerthings](http://example.com/stranger-things-poster.jpg)
 ## Summary
 
 Game of Thrones is an epic fantasy television series based on the book series "A Song of Ice and Fire" by George R.R. Martin. It is set in the fictional continents of Westeros and Essos and follows the power struggles among noble families for control of the Iron Throne.
@@ -26,5 +27,3 @@ Game of Thrones is an epic fantasy television series based on the book series "A
 3. High production value and breathtaking visuals.
 4. Unexpected plot twists and shocking moments.
 5. The show's ability to keep viewers on the edge of their seats.
-
-If you haven't watched Game of Thrones yet, I highly recommend giving it a try!
